@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Debounce Text</string>
+    <string name="prefix_search_for">Search For</string>
+</resources>
